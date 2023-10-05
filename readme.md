@@ -1,4 +1,4 @@
-# Family secret recipes
+# Kololgi's Family secret recipes
 
 This repository contains a list of my recipes
 
