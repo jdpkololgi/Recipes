@@ -1,3 +1,4 @@
 *.png
 .DS_Store/
 Receipts/
+.DS_Store
