@@ -6,4 +6,3 @@ This repository contains a list of my recipes
 - sauces (TODO)
 - spreads (TODO)
 - pasta (TODO)
-- cheeses (TODO)
