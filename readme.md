@@ -2,7 +2,8 @@
 
 This repository contains a list of my recipes
 
-- pizzas (TODO)
+- pizzas 
+    - [base](./pizzas/base.md)
 - sauces (TODO)
 - spreads (TODO)
 - pasta (TODO)
